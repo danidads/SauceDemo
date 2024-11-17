@@ -1,4 +1,4 @@
- Desafio Funcional de QA 
+ Desafio Funcional de QA – 
 
 ## Descrição do Desafio
 Este repositório contém a automação de testes para um desafio de QA funcional solicitado pela Ritain.io. A aplicação em teste é o site de comércio eletrônico SauceDemo.
